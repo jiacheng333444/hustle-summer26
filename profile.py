@@ -9,3 +9,5 @@ print(full_name, nick_name, age, used_python_before, hobbies, favorites)
 skills = ("Hardworking", "Leadership")
 languages_spoken = {"English", "Cantonese", "Mandarin", "Spanish"}
 print(skills, languages_spoken)
+
+# this buggy
